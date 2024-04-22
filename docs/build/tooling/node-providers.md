@@ -35,6 +35,10 @@ head:
 
 [Unifra](https://unifra.io/) is a Web3 developer platform that provides tools, APIs, and node infrastructure, and provides access to zkSync nodes that are nodes are reliable, scalable, and easy to use.
 
+### NOWNodes
+
+[NOWNodes](https://nownodes.io/nodes) provides Full Node for zkSync with is a high-quality standart and 24/7 support. Free Plan is available.
+
 ### Public RPCs
 
 | Mainnet                                                                                              | Testnet                                                                                                              |
